@@ -41,5 +41,7 @@ print("Grade:", grade)
 if average >= 40:
     print("Result: PASS")
 else:
-    print("Result: FAIL")
+    print("Result: FAIL"
+
+
 
